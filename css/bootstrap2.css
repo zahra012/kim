@@ -1,0 +1,148 @@
+body{
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+	background-image: url(../media/lol223.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 1400px;
+}
+#nav, #main-content, #main-content2, #sidebar-content, #sidebar-content2, {
+	border:1px solid grey;  margin: 20px; padding: 5px;
+}
+#header{
+	height: 600px;
+	animation-delay: 0.5s;
+}
+#main-content1{
+	background-color:blue;
+	height: 660px;
+	/*float: left; */
+}
+
+#sidebar-contentq{
+	float: left;
+	width: 30%;
+}
+#sidebar-content2{
+	float: right;
+}
+#footer{
+	height: 200px;
+	color: white;
+	background-color: #bf00ff;
+}
+#footerright{
+	margin: 5px;
+	float: right;
+	width: 600px;
+
+}
+#footerleft{
+	width: 500px;
+	float: left;
+	padding: 20px;
+}
+
+#menu{
+	margin: 20px;
+	font-size: 20px;
+	float: right;
+}
+/*kondisi biasa */
+.menu:link{
+	background: #5a0876;
+}
+/*kondisi setelah di kunjungi */
+.menu:visited{
+	background: #5a0876;
+}
+/*kondisi hover-mose berada di atasnya
+.menu:hover{
+	background: green;
+} */
+/*sedang diklik 
+.menu:active{
+	background: white;
+}*/
+
+table{
+	height: 120px;
+	width: 20px;
+}
+.tulisan{
+	font-family: sans-serif;
+	font-size: 40px;
+	color: black;
+	background-color:rgba(255,255,255,0.5);
+	margin: 80px;
+}
+#section-1{
+	background-color: #bf00aa;
+	position: relative;
+	width: 100%;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	background-position: top;
+}
+#section-2{
+	background-color: #bf00aa;
+	position: relative;
+	width: 100%;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	background-position: top;
+}
+#section-3{
+	background-color: #bf00aa;
+	position: relative;
+	width: 100%;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	background-position: top;
+}
+#section-4{
+	background-color: #bf00aa;
+	position: relative;
+	width: 100%;
+	min-height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	background-position: top;
+}
+a{
+	margin: 10px;
+	padding:5px;
+	color: white;	
+	font-size: 15px;
+	animation-delay: 0.5s;
+}
+#info{
+	float: right;
+	width: 600px;
+	margin: 20px;
+	font-size: 20px;
+}
+.marquee{
+	font-size: 15px;
+}
+.content{
+	height: 670px;
+}
+
+#logopraduke{
+	margin: 5px;
+	float: right;
+}
+
+
